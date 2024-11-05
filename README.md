@@ -1,5 +1,5 @@
 # Power Plant Combustion Optimization Project:  
-# Data Analysis and Visualization
+## Data Analysis and Visualization
 
 This project aims to optimize the combustion process in power plants by utilizing data analysis and visualization techniques to address nitrogen oxides (NOx) and carbon monoxide (CO) emissions.  
 The project includes data preprocessing, visualizations for a feasibility analysis report, and single-step predictions using Long Short-Term Memory (LSTM) models.
@@ -7,7 +7,7 @@ The project includes data preprocessing, visualizations for a feasibility analys
 The **Long Short-Term Memory (LSTM)** model is a type of recurrent neural network (RNN) designed to capture long-term dependencies in time series data.  
 LSTMs are particularly effective for sequential data, where current predictions rely on previous time steps, such as predicting nitrogen oxide emissions over time.
 
-## Project Structure
+### Project Structure
 
 This project contains the following files:
 
